@@ -63,6 +63,6 @@ csv-sql-dashboard/
 
 - Email: imfyashya@gmail.com
 
-- GitHub: [@fie_n](https://t.me/fie_n)
+- Telegram: [@fie_n](https://t.me/fie_n)
 
 - LinkedIn: [https://www.linkedin.com/in/azizbek-sattorov-6a5678343/](https://www.linkedin.com/in/azizbek-sattorov-6a5678343/)
